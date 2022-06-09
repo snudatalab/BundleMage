@@ -10,6 +10,6 @@ We include the preprocessed datasets in the repository: `data/{data_name}`.
 
 ## Running the code
 You can run the code by `python main.py` with arguments `--data` and `--task`.
-You can choose a dataset among 'youshu', 'netease', and 'steam'.
-Set `--data` argument as 'mat' for bundle matching, or as 'gen' for bundle generation.
+Set `--data` argument as one among 'youshu', 'netease', and 'steam'.
+Set `--task` argument as 'mat' for bundle matching, or as 'gen' for bundle generation.
 We provide `demo.sh`, which reproduces the experiments of our work for bundle matching and generation.
