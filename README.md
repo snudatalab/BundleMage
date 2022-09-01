@@ -1,5 +1,5 @@
 # BundleMage
-This project is a PyTorch implementation of BundleMage (submitted to ICDM 2022).
+This project is a PyTorch implementation of BundleMage (submitted to BigData 2022).
 
 ## Prerequisties
 Our implementation is based on Python 3.6 and Pytorch 1.8.1. Please see the full list of packages required to our codes in `requirements.txt`.
