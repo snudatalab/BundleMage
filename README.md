@@ -1,5 +1,5 @@
 # BundleMage
-This project is a PyTorch implementation of BundleMage (submitted to PLOS ONE).
+This project is a PyTorch implementation of BundleMage (PLOS ONE 2023).
 
 ## Prerequisties
 Our implementation is based on Python 3.6 and Pytorch 1.8.1. Please see the full list of packages required to our codes in `requirements.txt`.
